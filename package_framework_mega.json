@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "esframeworkwithmega",
-      "maintainer": "J Edward Carryer",
+      "maintainer": "Lingjie Kong",
       "websiteURL": "http://spdl.stanford.edu/",
-      "email": "carryer@stanford.edu",
+      "email": "ljkong@stanford.edu",
       "help": {
         "online": "https://canvas.stanford.edu/courses/26411/discussion_topics"
       },
