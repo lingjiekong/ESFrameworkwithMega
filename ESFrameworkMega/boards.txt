@@ -4,7 +4,7 @@ menu.cpu=Processor
 
 ##############################################################
 
-mega3.name=Arduino/Mega with Framework
+mega3.name=Mega with Framework
 
 mega3.vid.0=0x2341
 mega3.pid.0=0x0010
