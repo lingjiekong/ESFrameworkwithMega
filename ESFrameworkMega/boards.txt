@@ -28,7 +28,7 @@ mega3.bootloader.unlock_bits=0x3F
 mega3.bootloader.lock_bits=0x0F
 
 mega3.build.f_cpu=16000000L
-mega3.build.core=arduino
+mega3.build.core=arduinoW_Framework
 mega3.build.variant=mega
 # default board may be overridden by the cpu menu
 mega3.build.board=AVR_MEGA2560
